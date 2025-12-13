@@ -6,39 +6,6 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 
-	<style>
-    body {
-        font-family: Arial, sans-serif;
-        background-color: #f4f6f9;
-        text-align: center;
-        padding-top: 100px;
-    }
-    
-    form input[type="text"],
-form input[type="password"] {
-    
-    padding: 8px;
-    margin-bottom: 16px;   /* 👈 adds space between inputs */
-    border: 1px solid #ccc;
-    border-radius: 4px;
-}
-    h3{
-    color: red;
-    }
-
-	#login {
-        display: inline-block;
-        padding: 10px 20px;
-        background-color: #007bff;
-        color: white;
-        text-decoration: none;
-        border-radius: 6px;
-        font-size: 15px;
-        transition: background-color 0.3s ease;
-    }
-
-    
-</style>
 
 </head>
 <body>
@@ -55,4 +22,5 @@ form input[type="password"] {
 	<a href="registerme">Register Me ?</a> /
 	<a href="#">Forgot Password ?</a>
 </body>
+
 </html>
